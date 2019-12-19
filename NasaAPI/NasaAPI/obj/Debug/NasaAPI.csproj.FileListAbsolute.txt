@@ -1,0 +1,6 @@
+c:\users\gilhin\documents\visual studio 2013\Projects\NasaAPI\NasaAPI\bin\NasaAPI.dll.config
+c:\users\gilhin\documents\visual studio 2013\Projects\NasaAPI\NasaAPI\bin\NasaAPI.dll
+c:\users\gilhin\documents\visual studio 2013\Projects\NasaAPI\NasaAPI\bin\NasaAPI.pdb
+c:\users\gilhin\documents\visual studio 2013\Projects\NasaAPI\NasaAPI\obj\Debug\NasaAPI.dll
+c:\users\gilhin\documents\visual studio 2013\Projects\NasaAPI\NasaAPI\obj\Debug\NasaAPI.pdb
+c:\users\gilhin\documents\visual studio 2013\Projects\NasaAPI\NasaAPI\obj\Debug\NasaAPI.csprojResolveAssemblyReference.cache

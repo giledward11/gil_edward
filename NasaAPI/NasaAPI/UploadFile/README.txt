@@ -1,0 +1,3 @@
+- You can use a single date only.
+- If ever you want multiple dates to be retrieved, make sure to use a (|) as a delimeter for every date.
+- NASA has a limit on accessing their API (probably for security purposes). You can give a try after a couple of minutes again.
